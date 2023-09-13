@@ -51,5 +51,64 @@ fileMapping对象可以包含文件的全部或者部分
 
 
 
+## 示例程序
+
+https://github.com/wqreytuk/file_mapping/blob/main/ConsoleApplication2.cpp
+
+C:\users\lc\1.txt
+
+```
+0
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+```
+
 
 
